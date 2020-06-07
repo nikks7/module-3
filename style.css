@@ -1,0 +1,85 @@
+body{
+	background-color: grey;
+	font-family:italic;
+	color:purple;
+	font-size:16px;
+}
+.first-container{
+	background-color: black;
+	width: 100%;
+	border:3px purple;
+}
+.second-container{
+	background-color: lightblue;
+	padding:10px;
+margin-bottom:25px;
+
+}
+ a{
+	font-size: 2em;
+}
+h2{
+	font-size:1.2em;
+margin-top: 30px;
+margin-bottom: 30px;
+}
+.navbar-header button.navbar-toggler , .navbar-header .icon-bar{
+	border:1px green;
+
+}
+.navbar-header button .navbar-toggle{
+	clear:both;
+}
+#nav-list{
+	margin-top:10px;
+}
+#nav-list a {
+
+	text-align:center;
+}
+#nav-list a:hover{
+	background: #e7e7e7
+	padding:5px;
+	border: 2px white;
+}
+
+
+}
+#nav-list a span {
+	font-size: 1.8em;
+
+}
+.iccon{
+	position: absolute;
+	top: 25px;
+	right: 40px}
+.first{
+	font-style: italic;
+	font-size: 1em;
+	margin-top:20px;
+	text-align: center;
+}
+.second{
+	font-style: italic;
+	font-size:1em;
+	
+	text-align: center;
+}
+.third{font-style: italic;
+	font-size:1em;
+	
+	text-align: center;
+	}
+	.third-container{
+		background-color: lightpink;
+	}
+.Fourth-container {background-color: lightblue;
+	padding:10px;
+margin-bottom:25px;}
+.fifth-container {
+background-color: lightblue;
+	padding:10px;
+margin-bottom:25px;}
+.row-class{
+margin-left:25px;
+margin-right:25px;}
